@@ -1,3 +1,5 @@
+# THIS IS BEING REWRITTEN
+
 <p align="center">
 <img src="./public/logo_full.svg" alt="Oversneedrr" style="margin: 20px 0;">
 </p>
